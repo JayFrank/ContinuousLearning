@@ -11,8 +11,10 @@
 Question: What is the highest and best use of a business analyst or a business data analyst?
 
 Answer: To find out the right question to ask.Then, find the best answer you possibly can in the time, and with the resources available.
+
 **译文：**
 问题：什么才是对于商业分析或者商业数据分析的最大程度利用呢？
+
 回答：找出需要提出的正确问题。然后找出能够在时间和资源有限的情况下能给出的最佳解决方案。
 
 那么什么才是正确的问题呢？其实，就是需要在企业流程里面，做出相应的改变，这个改变应该能够满足以下三点中的至少一点：增加收益、最大化利润或者减少风险。（
