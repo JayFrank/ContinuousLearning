@@ -4,3 +4,8 @@
 
 而如果要想有效地利用这些大数据，就必须要了解数据问题的整个生命周期。而数据问题的生命周期包括了数据的收集、清洗、分析以及将数据含义传达给其他人。整个生命周期或许需要从程序员到统计学家、沟通专家再到业务领域专家等各种角色。但是，一个人也可以掌握全部的所有知识，成为个人大数据独角兽（personal big data unicorn）。
 
+## What are business metrics?
+Question: What is the highest and best use of a business analyst or a business data analyst?
+Answer: To find out the right question to ask.Then, find the best answer you possibly can in the time, and with the resources available.
+
+
