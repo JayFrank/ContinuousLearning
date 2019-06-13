@@ -8,11 +8,13 @@
 
 ### Metrics Help Us Ask the Right Questions
 **原文：**
+
 Question: What is the highest and best use of a business analyst or a business data analyst?
 
 Answer: To find out the right question to ask.Then, find the best answer you possibly can in the time, and with the resources available.
 
 **译文：**
+
 问题：什么才是对于商业分析或者商业数据分析的最大程度利用呢？
 
 回答：找出需要提出的正确问题。然后找出能够在时间和资源有限的情况下能给出的最佳解决方案。
