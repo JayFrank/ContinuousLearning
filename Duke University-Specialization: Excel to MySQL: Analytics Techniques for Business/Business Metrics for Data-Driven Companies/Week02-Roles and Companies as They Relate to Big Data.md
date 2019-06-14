@@ -67,3 +67,11 @@
 ### The Senior Software Engineer
 随着大数据文化逐渐被接受，除了需要商业数据分析师和数据科学家之外，企业还需要熟练的软件工程师和有经验的技术项目经理来设计和构建最佳的用户体验以及下层基础系统，包括了实时数据存储、处理以及提取的系统。
 
+## Companies As They Related To Big Data
+
+### Overview of 5 Types of Companies as They Related to Big Data
+以下列出的5类公司，按照它们用专有软件知识增强业务优势的程度排列。换言之，排在前面的组聘请初级商业分析师的可能性最高，但聘请技术软件开发人员可能性最小。
+
+1. **传统商业战略咨询公司(Traditional strategic business consulting firms)** 。其商业模式是依靠提供建议获取佣金，它们通常专注于寻找改善业务流程的方法，增加收入、最大化利润并降低风险。
+
+
