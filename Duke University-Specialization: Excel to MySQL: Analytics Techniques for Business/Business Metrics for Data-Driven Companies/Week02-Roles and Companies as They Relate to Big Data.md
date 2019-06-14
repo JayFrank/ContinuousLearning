@@ -53,6 +53,7 @@
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-5.png"  height="220">
 
 数据科学家的必备技能除了商业数据分析师必须具备的九个技术领域之外，还需要掌握更多的 **八个技术领域：**
+
 1. 更高级的建模工具，R、Matlab或SAS中级至高级的知识。
 2. 高级统计方法。
 3. 贝叶斯学习、概率模型以及机器学习算法在预测分析中的使用。机器从数据学习的过程可以很好地被贝叶斯假设和贝叶斯方法捕获，几乎所有的实时决策系统都依赖于机器学习来保证决策能够反映最近的数据输入。
