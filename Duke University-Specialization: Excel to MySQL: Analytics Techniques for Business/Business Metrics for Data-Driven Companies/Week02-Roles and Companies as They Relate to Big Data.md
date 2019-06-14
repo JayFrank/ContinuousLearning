@@ -38,3 +38,11 @@
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-4.png"  height="240">
 
 [这里](https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/JobRoles.pdf)提供了一份关于数据为中心的相关角色所需的技能文档！
+
+## The Data Scientist
+**数据科学家** 是一个新兴的领导力角色，这个角色是跨学科的，并且所涉及范围也在不断扩大。在社会对于技能型个体的需求超过了供给的当下，数据科学家的作用越来越重要。
+
+在过去十年中，越来越难以想象任何一个以大规模存活为目标的企业，能够从不在意增长和获取市场，并且能够不依靠 **建模、机器学习和预测** 这三个元素的协同。
+
+如果在一个环境中，关键的商业过程数据不断地被获取、存储、分析、更新以及在组织中共享，并且这些数据能够最终被决策者实时地接收到。那么，很多情况下，这里的决策制定者自身可以就是一个计算机算法。
+
