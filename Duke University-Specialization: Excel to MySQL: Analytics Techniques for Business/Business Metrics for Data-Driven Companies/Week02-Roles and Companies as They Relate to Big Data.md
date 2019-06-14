@@ -25,9 +25,9 @@
 ## Distinguishing the Business Data Analyst and Business Analyst Roles
 一个商业数据分析师的工作在很多方面和商业分析师相似，一个商业分析师所需要的全部技能对于商业数据分析师同样适用。
 
-**商业数据分析师的职责和商业分析师的职责主要有两点不同：**
-
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-2.png"  height="300">
+
+**商业数据分析师的职责和商业分析师的职责主要有两点不同：**
 
 1. **概念技能或分析技能：** 商业数据分析师应该要灵活地思考关于怎样使公司现有数据重新组合并且以崭新视角来分析来更好地理解当前的经营状况；而商业分析师通常是针对一个特定的问题来分析，基于别人所收集的信息。一个商业数据分析师可能需要收集分散在公司中的数据资源并且能够 知道能从组织的什么地方找到相关数据信息。换句话说，一个商业数据分析师应该知道如何问正确的问题，以辨别出业务流程改变的机会，而这样的发现由数据产生。 
 
