@@ -19,6 +19,8 @@ Answer: To find out the right question to ask.Then, find the best answer you pos
 
 **回答：** 找出需要提出的正确问题。然后找出能够在时间和资源有限的情况下能给出的最佳解决方案。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week01-1.png"  height="240">
+
 那么什么才是正确的问题呢？其实，就是需要在企业流程里面，做出相应的改变，这个改变应该能够满足以下三点中的至少一点：**增加收益、最大化利润或者减少风险。（
 To increase revenues, maximize profitability, or reduce our risk.）**
 
@@ -31,6 +33,8 @@ To increase revenues, maximize profitability, or reduce our risk.）**
 * 风险指标(Risk metrics)
 
 那么问题来了，当我们拿到一个指标，如何判断其属于以上三类中的哪一类呢？或许有很多种不同的方法，其中一种就是通过分析公司中哪些人员需要依赖这个指标来进行分类。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week01-3.png"  height="240">
 
 **收入指标与销售和市场活动相关；盈利率指标和效率、物流、生产以及运作相关；而风险指标与风险管理相关，并被公司债权人和外部投资者们广泛使用。**
 
@@ -51,6 +55,8 @@ To increase revenues, maximize profitability, or reduce our risk.）**
 传统的商业指标最早起源于使用纸笔形式的事实报告，这些指标中的某些指标曾经也是很有创新性的，就如500年前意大利佛伦伦萨的银行家就创造了复式记账的方法。基于这些商业指标做出的商业决策通常是经过数月甚至数年的深思熟虑才做出的，这样的做法是非常重要的并且值得我们去学习，但是我们往往没有时间来这样做。因此需要清晰地定义动态的商业指标，以便在时间紧急的情况下进行沟通。
 
 动态商业指标需要能够正确地指出商业问题，并指出在目前的商业流程中，我们可以 **立刻** 做出哪些改变来增加收入、提高利润或者降低风险。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week01-2.png"  height="240">
 
 动态商业指标有两个特点：
 * 该项指标能否在一个月甚至更短的周期内发生显著的变化？
