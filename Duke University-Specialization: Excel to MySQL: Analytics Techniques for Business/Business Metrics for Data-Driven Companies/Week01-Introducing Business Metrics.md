@@ -23,3 +23,4 @@ Answer: To find out the right question to ask.Then, find the best answer you pos
 To increase revenues, maximize profitability, or reduce our risk.）
 
 指标(Metrics)就是能够帮助我们提出并且回答正确商业问题的特殊数字。指标也是我们针对商业流程做出改变时能够影响的数字。因此，像某个州的营业税这样固定的数字自然就是商业指标，但是浏览网站广告产生的点击量却是商业指标。
+
