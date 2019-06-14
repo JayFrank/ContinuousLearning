@@ -11,8 +11,6 @@
 * 销售硬软件或者将收集、存储、分析和使用大数据的服务作为软件出售的公司
 * 数字化公司，这类公司的价值创造核心在于数据的实时分析
 
-## The Data Scientist And Software Engineering Roles
-
 ### The Business Analyst
 **对于商业分析师而言，需要掌握7种技能：**
 1. 能识别出特定业务中最重要和最相关的商业指标，具备某一公司所在行业领域的本土化知识（local knowledge）。虽然很多指标属于许多行业共有的，但是还有很多指标与特定垂直市场或行业领域（certain specific vertical markets or industry sectors）有关，每个行业既有其自有的特定指标，也有较通用的指标，这些特定指标有其特有的概念和词汇。
@@ -40,7 +38,9 @@
 
 [这里](https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/JobRoles.pdf)提供了一份关于数据为中心的相关角色所需的技能文档！
 
-## The Data Scientist
+## The Data Scientist And Software Engineering Roles
+
+### The Data Scientist
 **数据科学家** 是一个新兴的领导力角色，这个角色是跨学科的，并且所涉及范围也在不断扩大。在社会对于技能型个体的需求超过了供给的当下，数据科学家的作用越来越重要。
 
 在过去十年中，越来越难以想象任何一个以大规模存活为目标的企业，能够从不在意增长和获取市场，并且能够不依靠 **建模、机器学习和预测** 这三个元素的协同。
@@ -63,3 +63,7 @@
 6. 管理分布式和非结构数据的经验。包含的工具有Hadoop、MapReduce、Hive、Pig和Spark等。
 7. 一些基本知识和方法。包括自然语言处理的应用，例如情感分析。
 8. 一些管理大规模云数据托管和处理的经验。
+
+### The Senior Software Engineer
+随着大数据文化逐渐被接受，除了需要商业数据分析师和数据科学家之外，企业还需要熟练的软件工程师和有经验的技术项目经理来设计和构建最佳的用户体验以及下层基础系统，包括了实时数据存储、处理以及提取的系统。
+
