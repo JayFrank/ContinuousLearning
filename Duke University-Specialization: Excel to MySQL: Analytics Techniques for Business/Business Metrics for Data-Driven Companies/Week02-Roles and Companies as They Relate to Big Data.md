@@ -30,4 +30,4 @@
 
 2. **技术技能：** 商业分析师通常面对的是一个已经收集好的数据集合或者是 定义好的问题，而商业数据分析师需要运行SQL或者其他结构化查询语言来在一个大的数据库中找到有用的数据，甚至是从非结构化数据的分布集合中找到，而这些数据分散于公司的方方面面中。
 
-[这里]()提供了一份关于数据为中心的相关角色所需的技能文档！
+[这里](https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/JobRoles.pdf)提供了一份关于数据为中心的相关角色所需的技能文档！
