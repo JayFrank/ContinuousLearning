@@ -50,7 +50,7 @@
 
 成为一个数据科学家的条件：可以从商业数据分析师所要求的技能开始，但是需要进一步熟悉更多其他的技术和概念。数据科学家应该是能够把握全局的大师，需要能够理解如何将不同的工具和技术整合起来。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-5.png"  height="300">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-5.png"  height="220">
 
 数据科学家的必备技能除了商业数据分析师必须具备的九个技术领域之外，还需要掌握更多的 **八个技术领域：**
 1. 更高级的建模工具，R、Matlab或SAS中级至高级的知识。
