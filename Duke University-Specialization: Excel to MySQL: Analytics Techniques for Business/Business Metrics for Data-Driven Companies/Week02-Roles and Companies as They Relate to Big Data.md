@@ -2,6 +2,8 @@
 ## Introducing to Data-Centric Role 
 **与大数据相关的四个工作岗位：** 业务分析师、业务数据分析师、数据科学家以及高级软件工程师或者技术项目经理。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-1.png"  height="240">
+
 **与大数据相关的五种公司：**
 * 关注一般业务的战略咨询公司
 * 所有行业中的传统实体公司
