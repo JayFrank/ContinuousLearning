@@ -95,3 +95,20 @@
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-7.png"  height="220">
 
 [这里](https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/20ItemChecklist.pdf) 提供了一个检查清单，帮助**产品型** 以及 **服务型** 企业评估自身距离接受大数据文化还有多远的距离。
+
+### Strategic Business Consulting - Focus on Software/IT Systems Integration
+第二种战略商业咨询公司专注于提供改变业务流程的相关建议，包括了顾问为客户构建和实现新的IT基础设施的建议。虽然专注于IT的咨询公司较少，但是其在促进全球拥抱大数据文化过程中发挥了重要作用。
+
+这样的战略商业需要一些商业数据分析师，但是更加需要数据科学家和经验丰富的软件工程师团队。在全球的这个领域里，最有名的就是爱尔兰的**Accenture(埃森哲)**，其他比较著名的企业则有加州的Palantir和纽约的Opera Solutions。
+
+IT咨询公司所做的就是介绍技术上最新的方法，使得企业在特定的垂直市场里取得竞争优势。IT咨询公司会找出领域里有**早期采用者文化(early adopter culture)** 的一家企业，这样的企业往往愿意承担某程度风险而因此获得首先采用新技术的优势。
+
+举例而言，如果第一家公司成功采用了某种更好的以数据驱动决策的技术，并因此获得了更高的收入或利润。那么此时，这家公司的直接竞争对手已无选择，只能去提升自身原有的IT系统，否则就只能面对竞争对手采用新技术所带来的危机。而帮助这第一家公司的战略顾问公司此时就更容易将同样的技术解决方案销售给第一家公司的直接竞争对手们，很快所有这个领域里存活下来的企业都有了大致相同的IT能力。如此一来，便开始了一轮轮永无止境的“军备竞赛”。
+
+### Hardware and Software Companies
+硬件和软件公司只需要少数的商业数据分析师和数据科学家，但它们最大的需求是熟练的软件工程师和技术项目经理，其公司价值依附于有效地开发和传递相应的技术。
+
+### Digital Companies
+这里所界定的数字化公司指的是一些在使用新的商业模式来破坏传统市场，或者完全创造了全新市场的领军企业。这些公司以开发新的信息技术为驱动，无论是软件研发还是数据分析都是为了内部使用。通常而言，数字化公司所提供的服务或者产品比传统企业更好、更快、更便宜，而这得益于其出色的实时信息处理能力和机器学习能力。
+
+数字化公司往往在构建全新的系统，因此他们需要大量的软件工程师和数据科学家，相比而言，不需要太多的商业分析师和商业数据分析师。
