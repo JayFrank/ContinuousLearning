@@ -85,9 +85,13 @@
 
 大部分情况下，分析师所需要处理的数据由客户提供。咨询公司或者客户方的技术人员从客户储存的各种各样的数据库中提炼数据，之后将数据交给分析师（往往是Excel的形式）进行研究并构建模型，并挖掘提升企业业务能力的机会。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-6.png"  height="260">
+
 除此之外，某些专业的咨询公司拥有自己的数据库以及某个特定行业或市场细分的预测模型。这类咨询公司往往需要更多的商业数据分析师以及数据科学家。此类型的咨询公司有征信机构，他们收集人们欠款和还款记录，然后把这些信息卖给银行和其他提供信用服务的机构，来帮助他们决定是否能够承担给客户贷款的风险。
 
 ### Bricks-and-Mortar Companies
 虽然数字化技术发展迅猛，但世界上大部分的经济依然是依靠实体经济产生，比如把货物运送到目的地，通过商店将商品销售给客户等。虽然，实体经济行业面临着数字化企业所带来的巨大威胁，但是不可否认的是：实体行业能够通过商业分析实践获取更大的利益，而不采取行动则必将走向失败。
 
-[这里]() 提供了一个清单，帮助企业评估自身距离接受大数据文化还有多远的距离。
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-7.png"  height="260">
+
+[这里](https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/20ItemChecklist.pdf) 提供了一个检查清单，帮助**产品型** 以及 **服务型** 企业评估自身距离接受大数据文化还有多远的距离。
