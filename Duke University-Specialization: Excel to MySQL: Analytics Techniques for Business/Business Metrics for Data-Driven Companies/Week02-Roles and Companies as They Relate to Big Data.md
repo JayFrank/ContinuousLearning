@@ -99,6 +99,8 @@
 ### Strategic Business Consulting - Focus on Software/IT Systems Integration
 第二种战略商业咨询公司专注于提供改变业务流程的相关建议，包括了顾问为客户构建和实现新的IT基础设施的建议。虽然专注于IT的咨询公司较少，但是其在促进全球拥抱大数据文化过程中发挥了重要作用。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week02-8.png"  height="300">
+
 这样的战略商业需要一些商业数据分析师，但是更加需要数据科学家和经验丰富的软件工程师团队。在全球的这个领域里，最有名的就是爱尔兰的**Accenture(埃森哲)**，其他比较著名的企业则有加州的Palantir和纽约的Opera Solutions。
 
 IT咨询公司所做的就是介绍技术上最新的方法，使得企业在特定的垂直市场里取得竞争优势。IT咨询公司会找出领域里有**早期采用者文化(early adopter culture)** 的一家企业，这样的企业往往愿意承担某程度风险而因此获得首先采用新技术的优势。
