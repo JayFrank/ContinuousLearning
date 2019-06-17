@@ -38,3 +38,6 @@ Google一直致力于为用户推荐和搜索关键词最为相关品质优良�
 * **点击已经访问过的链接（Clicked clicked link）** ：放在email或者推特上的链接
 * **第三方网站（Third-party Web Site ）** ：从博客或者文章中链接到
 * **直接访问（Direct ）** ：输入URL访问
+
+**搜索引擎优化（Search Engine Optimization, SEO）**
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-2.png"  height="240">
