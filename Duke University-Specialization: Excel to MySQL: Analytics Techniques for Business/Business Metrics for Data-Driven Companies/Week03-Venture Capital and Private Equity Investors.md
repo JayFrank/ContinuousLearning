@@ -40,4 +40,5 @@ Google一直致力于为用户推荐和搜索关键词最为相关品质优良�
 * **直接访问（Direct ）** ：输入URL访问
 
 **搜索引擎优化（Search Engine Optimization, SEO）**
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-2.png"  height="240">
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-3.png"  height="240">
