@@ -38,3 +38,9 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 如果想要将其转化为年化收益率，则将1.0824开4次方，得到2%，也就是说这四年中年化收益率的几何平均值为2%。这能够说明4年的年化收益率为2%，但是无法说明收益率的范围在-18%到+25%之间。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-9.png" height="300">
+
+但是我们非常想知道这四年中收益的分布情况。在金融中有这样的一个基本假设，即当所有其他条件都相同的情况下，如果如果两个投资机会具有相同的长期回报，我们更倾向于不会产生大范围波动而具有持续收益的投资机会。我们将用于计算聚集和分散状况的指标叫做 **标准偏差（standard deviation）** ，在金融学里面，标准偏差称为 **收益浮动率（Volatility of returns）。**
+
+收益浮动率属于风险测量指标，该指标越大，投资风险也就越大。对于像债券这样具有固定回报的投资，是没有机会出现损失的，因此也叫做无风险收益，收益浮动率为0。
+
