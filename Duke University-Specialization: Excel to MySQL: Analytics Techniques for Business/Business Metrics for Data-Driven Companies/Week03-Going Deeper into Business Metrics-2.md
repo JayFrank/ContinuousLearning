@@ -30,11 +30,11 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 假设在第0年投入了1百万美元，在第1年追加1百万，而在第4年卖出获得了5百万。设收益率为x，代数式如下：(1+x)^4 + (1+x)^3 = 5，大多数计算器都有IRR功能，因此可以计算出x=29.62%。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-7.png" height=“240">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-7.png" height="240">
 
 接下来我们计算一系列年收益的几何平均值，假设4年的收益分别为+25%、-18%、+10%和-4%。我们想知道如果在一开始我们1$，那么在4年过去之后，我们将拥有多少资金？计算这个数值的方式就是每年依次计算，即1 * (1 + 0.25) * (1 - 0.18) * (1 + 0.10) * (1 - 0.04) = 1.0824。因此，这四年的绝对收益率为8%多一点。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-8.png" height=“300">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-8.png" height="300">
 
 如果想要将其转化为年化收益率，则将1.0824开4次方，得到2%，也就是说这四年中年化收益率的几何平均值为2%。这能够说明4年的年化收益率为2%，但是无法说明收益率的范围在-18%到+25%之间。
 
