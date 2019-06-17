@@ -20,4 +20,4 @@ Google一直致力于为用户推荐和搜索关键词最为相关品质优良�
 
 追踪记录有多少客户是通过合作伙伴网站点击进入的，并且有多少人最终购买了产品，这个百分比也叫做合作网站的 **“转换率”（conversion rate）** 。实际点击费用除以这个转换率就可以算出我们在这个合作网站上为了 **获得一个新客户（acquisition cost fornew customers）**  所投入的成本。
 
-当我们积累了足够多的转化用户，我们可以勾勒出每个客户的购物习惯，从而估算出每个客户的**“顾客终身价值“ (lifetime value, LTV)**。这也代表了我们可能从这个客户获得的所有未来收益，“客户终身价值”有很多的计算方法。Kissmetrics曾设计过一个非常出色的信息图来解释“客户终身价值” ，点击这里查看  [How To Calculate Lifetime Value – The Infographic](https://neilpatel.com/blog/how-to-calculate-lifetime-value/?wide=1) 。
+当我们积累了足够多的转化用户，我们可以勾勒出每个客户的购物习惯，从而估算出每个客户的 **“顾客终身价值“ (lifetime value, LTV)** 。这也代表了我们可能从这个客户获得的所有未来收益，“客户终身价值”有很多的计算方法。Kissmetrics曾设计过一个非常出色的信息图来解释“客户终身价值” ，点击这里查看  [How To Calculate Lifetime Value – The Infographic](https://neilpatel.com/blog/how-to-calculate-lifetime-value/?wide=1) 。
