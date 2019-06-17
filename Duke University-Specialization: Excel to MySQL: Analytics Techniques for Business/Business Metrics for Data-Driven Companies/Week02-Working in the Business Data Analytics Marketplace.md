@@ -1,4 +1,4 @@
-# Week02-Roles and Companies as They Relate to Big Data
+# Week02-Working in the Business Data Analytics Marketplace
 ## Introducing to Data-Centric Role 
 **与大数据相关的四个工作岗位：** 业务分析师、业务数据分析师、数据科学家以及高级软件工程师或者技术项目经理。
 
