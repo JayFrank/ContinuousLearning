@@ -31,3 +31,10 @@ Google一直致力于为用户推荐和搜索关键词最为相关品质优良�
 ### Web Marketing - Segmentation
 通过提取共同特征来划分客户，可以让我们了解什么样的客户才是理想客户，从而可以集中资源争取潜在的优质客户。
 
+*客户的来源：*
+
+* *竞价排名搜索（Sponsored search ）* ：点击投放在搜索引擎中的广告
+* *自然搜索（Organic search）* ：点击搜索结果中的未付费链接
+* *点击已经访问过的链接（Clicked clicked link）* ：放在email或者推特上的链接
+* *第三方网站（Third-party Web Site ）* ：从博客或者文章中链接到
+* *直接访问（Direct ）* ：输入URL访问
