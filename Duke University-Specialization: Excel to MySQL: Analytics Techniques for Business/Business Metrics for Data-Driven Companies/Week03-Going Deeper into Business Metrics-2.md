@@ -12,4 +12,3 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-4.png"  height=“300">
 
 举例而言，开始时为$100，最终为$130，于是得到26.24%的最终收益率。如果这是两年的收益，简单地将其除以2，得到每年13.12%的最终收益率。
-
