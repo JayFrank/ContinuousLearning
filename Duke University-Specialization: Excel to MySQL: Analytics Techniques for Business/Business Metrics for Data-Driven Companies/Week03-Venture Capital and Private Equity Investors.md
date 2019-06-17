@@ -8,6 +8,8 @@
 
 **Adwords是如何运作的**
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-1.png"  height="240">
+
 首先，用户在Google中输入搜索关键词，Google在众多广告商出了价的词条中提取和关键词最相关的词条。从纯计算的角度上来讲，这一步并不是十分繁琐。举个例子Google会选择“兽医院”或者”动物急诊”作为”宠物紧急护理“搜索关键字的相关词条。
 
 广告商可以给他们感兴趣的词条设定最高点击费用，也称作 **“最高CPC“** 。所以CPC竞价有时也称作 **“按点击收费”或者PPC** 。多数情况下，广告商会以低于最高CPC的价格赢得竞价。一条CPC的价格通常也在1到2美元之间，计算CPC的公式有一些复杂，就不在这里详细讨论了。
@@ -19,6 +21,8 @@
 Google一直致力于为用户推荐和搜索关键词最为相关品质优良的网站，并且这些网站也通常有很高的点击率，并在原始搜索中排名很高。**获得较高的品质分数的第一法则就是"做你自己”** ，一定要保证你的网站主题和AdWords词条紧密相关。
 
 追踪记录有多少客户是通过合作伙伴网站点击进入的，并且有多少人最终购买了产品，这个百分比也叫做合作网站的 **“转换率”（conversion rate）** 。实际点击费用除以这个转换率就可以算出我们在这个合作网站上为了 **获得一个新客户（acquisition cost fornew customers）**  所投入的成本。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-2.png"  height="240">
 
 当我们积累了足够多的转化用户，我们可以勾勒出每个客户的购物习惯，从而估算出每个客户的 **“顾客终身价值“ (lifetime value, LTV)** 。这也代表了我们可能从这个客户获得的所有未来收益，“客户终身价值”有很多的计算方法。Kissmetrics曾设计过一个非常出色的信息图来解释“客户终身价值” ，点击这里查看  [How To Calculate Lifetime Value – The Infographic](https://neilpatel.com/blog/how-to-calculate-lifetime-value/?wide=1) 。
 
