@@ -1,4 +1,4 @@
-# Week03-Venture Capital and Private Equity Investors
+# Week03-Going Deeper into Business Metrics
 ## Web Marketing
 ### Web Marketing - Metrics
 网络营销指标通常都是和**收入相关** 的指标，与之相关的调研分析都是为了直接提升销售额。并且这些指标是动态的，哪怕是一个很小的改动，这些指标都会因此发生巨大的变化。比如网站主页上信息的改动或者 **[AdWords]( [http://www.google-adwords.cn/](http://www.google-adwords.cn/) )** 上搜索关键词的变更，都会使得这些指标迅速和显著地改变。
@@ -42,3 +42,4 @@ Google一直致力于为用户推荐和搜索关键词最为相关品质优良�
 **搜索引擎优化（Search Engine Optimization, SEO）**
 
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-3.png"  height="240">
+
