@@ -76,6 +76,8 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 * 风险投资和私募股权经理（Venture capital and private equity investors）
 * 对冲基金经理（Hedge fund managers）
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-13.png" height="320">
+
 股票指数是帮助投资者追踪整个股票市场的，而不是用来评估某一只股票的表现的。距离而言，标准普尔500指数（The S&P 500 index）代表了美国 **市值（Market capitalization）** 最高的500个公司的股票市场整体情况。这里需要解释一下，**市场价值是等于一股公司普通股的股价乘以公司潜在的可购买和出售的股份总额（Market capitalization is the current market price of one share of a companies common stock multiplied by the total number of shares of stock of that company that potentially could be bought and sold. ）。**
 
 举个例子，一个公司每股的股价是52美元，有500万可被交易的股份，因此这个公司的市场价值是52美元乘以500万即2.6亿。
