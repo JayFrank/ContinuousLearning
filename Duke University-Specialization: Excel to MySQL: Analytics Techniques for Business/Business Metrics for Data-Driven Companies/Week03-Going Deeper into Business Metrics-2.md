@@ -108,7 +108,7 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-15.png" height="160">
 
-举个例子计算信息比率情况：
+举个例子计算信息比率情况(详细解释后续补充)：
 
 <img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-16.png" height="300">
 
@@ -117,6 +117,10 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 对冲基金对于它们可投资项目限制没有共同投资基金那么多。对冲基金可以卖空，这意味着它们可以通过组合交易，在股票价格下跌时盈利。对冲基金也可以对多种资产进行投资，其中包括期权及衍生产品（options and derivatives），对冲基金的投资并不限于某个产业，所以用产业基准来衡量对冲基金是不准确的。实际上，为了最大化的分散投资，对冲基金的投资者们常常期望该基金能够尽量少受主要资本市场表现的影响。一个成功的对冲基金在牛市的时候表现出色，而在熊市的时候表现也不俗。
 
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-17.png" height=“240">
+
 当然，基金表现的好不好关键指标还是主要体现于多年来的较高的年收益率，此外，夏普指数也是衡量基金表现的标准。而且对冲基金的操作和所持有的投资比起共同投资基金来说没有那么明显，但是对冲基金的投资人们对于大幅度跌落非常敏感，因此，对冲基金另一个主要的衡量标准是最大跌幅。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-18.png" height="300">
 
 即便一个对冲基金可能表现不错，从2005年到2015年，该对冲基金的年回报率为 15%。但如果期间有一个30%的跌幅，假设是在2007年和2009年的熊市，那么投资者会认为如果我不幸在这段时间投入资金，那么我的投资就会减少30%！投资者们即会立马开始抽回他们的投资，然后对冲基金就会瓦解。与最大跌幅相关的衡量标准是收支平衡所需年份，我们可以将其理解为了弥补最大跌幅的时间段。最大跌幅的绝对值除以年收益率得到的即为收支平衡所需年份。这个数字告诉我们投资者需要多久时间来收回所失去的资金。
