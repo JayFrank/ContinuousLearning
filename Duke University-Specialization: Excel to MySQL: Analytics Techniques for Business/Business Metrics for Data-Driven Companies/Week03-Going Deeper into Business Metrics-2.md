@@ -82,15 +82,17 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 举个例子，一个公司每股的股价是52美元，有500万可被交易的股份，因此这个公司的市场价值是52美元乘以500万即2.6亿。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-13.png" height="320">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-13.png" height="240">
 
 标准普尔500指数不只是简单的500个股票的平均值。每个股票价值取五百分之一或者是2%，这是等权重指数，然而标准普尔500指数是市值加权指数，每个公司股价占比的变化是由他们的市场价值占总体的比重计算得来的。打个比方，苹果公司现在的市场价值是6660亿，五百强企业总共的市场价值是十五万亿，所以苹果公司股价变化对于指数的影响是用666除以15,000，即4.44%。
 
-当前一个很流行的投资策略叫做 **被动投资（Passive investing）** ，就是购买并持有长期投资，这种投资尽可能刺激指数的表现。如果想要在标准普尔500指数中进行被动投资，可以购买道富银行(State Street) 旗下的SPDR S&P 500 ETF（查找符号SPY）。SPY创建于1993年，目前是世界上最为活跃的交易资产之一。
+当前一个很流行的投资策略叫做 **被动投资（Passive investing）** ，也叫做指数投资（Index investing），就是购买并持有长期投资，这种投资尽可能刺激指数的表现。如果想要在标准普尔500指数中进行被动投资，可以购买道富银行(State Street) 旗下的SPDR S&P 500 ETF（查找符号SPY）。SPY创建于1993年，目前是世界上最为活跃的交易资产之一。
 
 指数基金经理不需要选择股票，而是管理被动投资。但他们也面对具有挑战的工作，他们需要致力于长期保持平衡，使得每只股票的持有比例与指数市场中的比例相同，同时尽量减少 **交易成本（Transaction costs）** 。
 
 指数基金经理的表现由两个因素来评定，即他们所管理的基金的表现与指数的关系有多紧密以及他们的费用率有多低。大多数指数基金会非常紧密地追随相应的指数，一年之内千分之一的差异往往都是不可接受的，因此评定被动投资经理的主要因素是他们的 **费用率（Expense ratio）** 。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-14.png" height="220">
 
 费用率等于花在运营基金的费用除以基金资产的市场价值，运营费用包括市场营销的综合的和管理的费用，但最主要的是基金经理收入产生的费用，但是费用率不包括购买和卖出基金资产时的费用。SPY当前的费用率仅仅为0.0945%，这听起来很不错，然而每年的费用支出是1.27亿。
 
@@ -103,6 +105,12 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 1. 超额收益（Excess returns）：如果以标准普尔500指数作为他们的基准，当标普500指数上涨了8%，而一个经理从标准普尔500指数中所选的30支股票上涨了12%，那么这个经理基于这个基准的超额收益就是4%。对于超额收益方法而言，其中存在的一个问题是如果标准普尔500指数下跌了20%，一个有4%超额收益的基金经理基于这个基准仍然下跌了16%。因此，除了获得高于基准的超额收益之外，经理还被期望于不要偏离基准太远。 
 2. 跟踪误差（Tracking error）：其代表超额收益的标准差，属于风险指标，跟踪误差越小越好。跟踪误差是基金经理投资组合收益和基准指数收益差值的标准差，也就是超额收益的标准差。
 3. 信息比率（Information ratio）：信息比率是一种结合了超额收益和跟踪误差的测量方法，信息比率等于超额收益除以跟踪误差。
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-15.png" height="200">
+
+举个例子计算信息比率情况：
+
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-16.png" height="300”>
 
 ## Venture Capital and Private Equity Investors
 风险资本投资和私募股权投资不同于基金和对冲基金，他们有几个显著的不同点，基金管理人并不会让投资者提前付清所有投资资金，相反，投资者会作出承诺将投资资金分期分批投入。一个期限为五至七年的典型基金里，所投资的资金会按照基金管理人的需求分批流入，一个大的机构型的投资者可能会对一个风险资本基金做出两千万的投资承诺，再将投资额分为八份，每份为250万，在四到五年时间内分批投资。投资者们之所以这样做是因为风险资本投资和私募股权投资需要较长的时间来寻找发展和规划投资项目。此外，一个投资公司通常会有多个投资项目，这些项目时长横跨多年，在投资者真正需要这些投资款之前，外部的资金来源并不想将他们的钱放在这个静止的资金池里，他们更想把这些钱投资在其他的可以快速变现的短期投资。因为投资者们为基金分批分期地投入现金，几年内衡量基金表现的最佳标准就是基金的内部收益率，这个不连续的复合收益率，也是是基于基金实际收到的投资额得出的。
