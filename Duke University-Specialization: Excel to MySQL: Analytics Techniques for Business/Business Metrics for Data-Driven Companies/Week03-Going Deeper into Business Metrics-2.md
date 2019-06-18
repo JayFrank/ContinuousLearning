@@ -117,7 +117,7 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 对冲基金对于它们可投资项目限制没有共同投资基金那么多。对冲基金可以卖空，这意味着它们可以通过组合交易，在股票价格下跌时盈利。对冲基金也可以对多种资产进行投资，其中包括期权及衍生产品（options and derivatives），对冲基金的投资并不限于某个产业，所以用产业基准来衡量对冲基金是不准确的。实际上，为了最大化的分散投资，对冲基金的投资者们常常期望该基金能够尽量少受主要资本市场表现的影响。一个成功的对冲基金在牛市的时候表现出色，而在熊市的时候表现也不俗。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-17.png" height=“240">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-17.png" height="240">
 
 当然，基金表现的好不好关键指标还是主要体现于多年来的较高的年收益率，此外，夏普指数也是衡量基金表现的标准。而且对冲基金的操作和所持有的投资比起共同投资基金来说没有那么明显，但是对冲基金的投资人们对于大幅度跌落非常敏感，因此，对冲基金另一个主要的衡量标准是最大跌幅。
 
