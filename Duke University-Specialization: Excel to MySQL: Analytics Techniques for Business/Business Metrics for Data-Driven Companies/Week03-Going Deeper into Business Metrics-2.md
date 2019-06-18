@@ -92,7 +92,7 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 
 指数基金经理的表现由两个因素来评定，即他们所管理的基金的表现与指数的关系有多紧密以及他们的费用率有多低。大多数指数基金会非常紧密地追随相应的指数，一年之内千分之一的差异往往都是不可接受的，因此评定被动投资经理的主要因素是他们的 **费用率（Expense ratio）** 。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-14.png" height="220">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-14.png" height="160">
 
 费用率等于花在运营基金的费用除以基金资产的市场价值，运营费用包括市场营销的综合的和管理的费用，但最主要的是基金经理收入产生的费用，但是费用率不包括购买和卖出基金资产时的费用。SPY当前的费用率仅仅为0.0945%，这听起来很不错，然而每年的费用支出是1.27亿。
 
@@ -106,11 +106,11 @@ log以e为底，通常写成自然对数ln（最终的价格除以最初的价�
 2. 跟踪误差（Tracking error）：其代表超额收益的标准差，属于风险指标，跟踪误差越小越好。跟踪误差是基金经理投资组合收益和基准指数收益差值的标准差，也就是超额收益的标准差。
 3. 信息比率（Information ratio）：信息比率是一种结合了超额收益和跟踪误差的测量方法，信息比率等于超额收益除以跟踪误差。
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-15.png" height="200">
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-15.png" height="160">
 
 举个例子计算信息比率情况：
 
-<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-16.png" height="300”>
+<img src="https://github.com/JayFrank/ContinuousLearning/blob/master/Duke%20University-Specialization:%20Excel%20to%20MySQL:%20Analytics%20Techniques%20for%20Business/Business%20Metrics%20for%20Data-Driven%20Companies/Link/Week03-16.png" height="300">
 
 ## Venture Capital and Private Equity Investors
 风险资本投资和私募股权投资不同于基金和对冲基金，他们有几个显著的不同点，基金管理人并不会让投资者提前付清所有投资资金，相反，投资者会作出承诺将投资资金分期分批投入。一个期限为五至七年的典型基金里，所投资的资金会按照基金管理人的需求分批流入，一个大的机构型的投资者可能会对一个风险资本基金做出两千万的投资承诺，再将投资额分为八份，每份为250万，在四到五年时间内分批投资。投资者们之所以这样做是因为风险资本投资和私募股权投资需要较长的时间来寻找发展和规划投资项目。此外，一个投资公司通常会有多个投资项目，这些项目时长横跨多年，在投资者真正需要这些投资款之前，外部的资金来源并不想将他们的钱放在这个静止的资金池里，他们更想把这些钱投资在其他的可以快速变现的短期投资。因为投资者们为基金分批分期地投入现金，几年内衡量基金表现的最佳标准就是基金的内部收益率，这个不连续的复合收益率，也是是基于基金实际收到的投资额得出的。
